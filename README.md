@@ -14,8 +14,7 @@ A clean, responsive personal website built with semantic HTML5 and modern CSS. F
 ```
 ├── index.html          # Main HTML document with semantic markup
 ├── default.css         # Comprehensive stylesheet with responsive design
-├── README.en.md        # English documentation
-├── README.md           # Chinese documentation
+├── README.md        # English documentation
 ├── images/             # All visual assets (background, avatars, icons)
 ├── Documents/          # Supplementary documentation
 ├── LICENSE             # Open source license
